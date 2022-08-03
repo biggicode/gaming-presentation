@@ -79,3 +79,19 @@ header {
   color: #000;
   background-color: #fff;
 }
+
+.content {
+  padding-top: 140px;
+}
+
+.content-text {
+  z-index: 2;
+  margin-bottom: 50px;
+}
+
+.content-text h6 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 40px;
+}
