@@ -95,3 +95,64 @@ header {
   color: #fff;
   margin-bottom: 40px;
 }
+
+.content-text h1 {
+  font-size: 100px;
+  line-height: 1;
+  color: #fff;
+  margin: 0 0 45px;
+  font-family: "Permanent Marker", cursive;
+}
+
+.content-text h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.content-text p {
+  max-width: 100%;
+  width: 480px;
+  color: #fff;
+  line-height: 1.8;
+  font-size: 15px;
+  margin-bottom: 50px;
+}
+
+.content-text__link {
+  color: #000;
+  display: inline-block;
+  background-color: #fff;
+  border: 1px solid #fff;
+  padding: 9px 25px;
+  line-height: 1.4;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.content-text__link:hover {
+  transform: scale(1.2);
+  border: 1px solid #f5dca8;
+  background-color: transparent;
+  color: #fff;
+  transition: all 0.4s ease;
+}
+
+.cta {
+  border: 1px solid #f5dca8;
+  background-color: transparent;
+  color: #fff;
+  margin-left: 20px;
+}
+
+.cta:hover {
+  color: #000;
+  background-color: #fff;
+  border: 1px solid #fff;
+  transition: 0.4s;
+}
+
+.cta i {
+  margin-right: 12px;
+}
